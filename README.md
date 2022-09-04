@@ -36,6 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Kabir132/Kabir132/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/Kabir132/Kabir132/blob/output/snake.svg" alt="Snake animation" />
 
 ###
