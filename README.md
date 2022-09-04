@@ -13,7 +13,7 @@ Kabir132/Kabir132 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="left">Hi 👋! My name is Olaf Piasecki and I'm a front-end dev, from Poland</h2>
+<h2 align="left">Hi 👋! My name is Olaf Piasecki and I'm a frontend-dev, from Poland</h2>
 
 ###
 
@@ -36,6 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<img href="https://github.com/Kabir132/Kabir132/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Kabir132/Kabir132/output/snake.svg" alt="Snake animation" />
 
 ###
