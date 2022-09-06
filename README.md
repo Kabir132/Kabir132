@@ -36,6 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+(https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ###
